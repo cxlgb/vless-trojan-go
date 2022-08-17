@@ -1,6 +1,6 @@
 {
-    "name": "随便改",
-    "description": "随便改",
+    "name": "fh",
+    "description": "nbm",
     "keywords": ["VLESS"],
     "env": {
         "ID": {
@@ -8,6 +8,6 @@
             "value": "87b5c352-90d7-4ee1-9d1e-b03231c9fc53"
         }
     },
-    "repository": "",
+    "repository": "https://github.com/cxlgb/vless-trojan-go",
     "stack": "container"
 }
